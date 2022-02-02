@@ -2,10 +2,10 @@
 
 <h1 align="center">C++ Loader Base</h1>
 
-  ## 🖥️ What is this?
+## 🖥️ What is this?
 - ⚡ This is a very simple base I made for projects that require a login / register page that use ImGui. 
 
-  ## 🖥️ Screenshots
+## 🖥️ Screenshots
  - ⚡ Login Page: https://media.discordapp.net/attachments/820716549639766050/938579412759244860/unknown.png?width=732&height=443
  - ⚡ Register Page: https://media.discordapp.net/attachments/820716549639766050/938579443021119568/unknown.png?width=634&height=400
  
